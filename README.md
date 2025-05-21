@@ -42,7 +42,7 @@ All functionality is implemented using **Node.js**, with support for environment
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/email-extractor.git
+   git clone https://github.com/Bavoke/rpa.git
    cd email-extractor
    ```
 
