@@ -32,13 +32,13 @@ async function main() {
     if (email) {
       console.log(`Extracted Email: ${email}`);
       await sendEmail(email);
-      console.log('📬 Confirmation email sent!');
+      console.log('Confirmation email sent!');
     } else {
-      console.log('❌ No valid email found.');
+      console.log('No valid email found.');
     }
 
   } catch (error) {
-    console.error('🚨 Error occurred:', error);
+    console.error('Error occurred:', error);
   }
 }
 
