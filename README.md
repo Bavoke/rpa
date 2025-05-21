@@ -151,27 +151,3 @@ email-extractor/
  Extracted Email: john.doe@example.com
  Confirmation email sent!
 ```
-
----
-
-##  Author
-
-Your Name  
-[LinkedIn Profile] | [GitHub Profile]
-
----
-
-##  Submission for RPA Week 5 Independent Project
-
-All rubric criteria have been met:
--  Correct output
--  Proper variable usage
--  Version control via GitHub
--  Mail activities used to send email
-
-Total Points: **12/12**
-```
-
----
-
-Let me know if you'd like a version tailored with your name, GitHub link, or any specific instructions!

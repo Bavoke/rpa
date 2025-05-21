@@ -30,7 +30,7 @@ async function main() {
     }
 
     if (email) {
-      console.log(`✅ Extracted Email: ${email}`);
+      console.log(`Extracted Email: ${email}`);
       await sendEmail(email);
       console.log('📬 Confirmation email sent!');
     } else {
